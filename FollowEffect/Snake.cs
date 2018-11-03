@@ -2,7 +2,7 @@
 using Microsoft.Xna.Framework.Graphics;
 using System;
 
-namespace FollowEffect
+namespace GumEffect
 {
     public class Snake
     {

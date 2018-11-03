@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System;
 
-namespace FollowEffect
+namespace GumEffect
 {
     public class GameApp : Game
     {

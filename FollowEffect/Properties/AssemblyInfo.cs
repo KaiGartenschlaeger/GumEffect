@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FollowEffect")]
-[assembly: AssemblyProduct("FollowEffect")]
+[assembly: AssemblyTitle("GumEffect")]
+[assembly: AssemblyProduct("GumEffect")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyCompany("")]

@@ -9,8 +9,8 @@
     <ProjectGuid>{14A5DE1B-788E-4BE9-8132-37A59E58F001}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>FollowEffect</RootNamespace>
-    <AssemblyName>FollowEffect</AssemblyName>
+    <RootNamespace>GumEffect</RootNamespace>
+    <AssemblyName>GumEffect</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MonoGamePlatform>Windows</MonoGamePlatform>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
@@ -41,6 +41,9 @@
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>GumEffect.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="GameApp.cs" />

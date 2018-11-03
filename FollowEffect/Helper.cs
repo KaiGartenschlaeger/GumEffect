@@ -1,7 +1,7 @@
 ﻿using Microsoft.Xna.Framework;
 using System;
 
-namespace FollowEffect
+namespace GumEffect
 {
     internal static class Helper
     {

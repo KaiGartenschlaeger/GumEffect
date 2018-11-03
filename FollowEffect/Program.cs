@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace FollowEffect
+namespace GumEffect
 {
     public static class Program
     {
